@@ -1,0 +1,58 @@
+name: Suggestion
+description: An idea for a new feature or an improvement
+title: "[Suggestion] "
+labels: ["suggestion"]
+body:
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Mod
+      options:
+        - Pocket Workshop
+        - Portable Crafting Table
+        - Four Elemental Swords
+        - Elemental Power
+        - Tools Of Obsidian
+        - One Punch Man
+        - Tablets
+        - Growing Items
+        - Ore Revolution
+        - Transmutation Ore
+        - Seeds From All Dirt Blocks
+        - Remove Potions Icons
+        - Craftable Enchanted Books
+        - Craft the Totem of Undying
+        - Craft Saddles
+        - Craftable Chainmail Armor
+        - Craftable Saplings
+        - Easy Netherite Ingot
+        - Easy Emerald
+        - Easy Diamond
+        - More Decorative Blocks
+        - More Buttons
+        - More Carpets
+        - More Doors
+        - "More Fences & Gates"
+        - More Ladders
+        - More Pressure Plates
+        - More Slabs
+        - More Stairs
+        - More Trapdoors
+        - More Vertical Slabs
+        - More Walls
+        - BlackwolfLibrary
+        - OreLibrary
+        - A new mod
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What you would like to see and how it should work.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it be useful?
