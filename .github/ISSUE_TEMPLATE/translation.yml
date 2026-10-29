@@ -8,6 +8,7 @@ body:
     attributes:
       label: Mod
       options:
+        - "Blackwolf's More Creepers"
         - Pocket Workshop
         - Portable Crafting Table
         - Four Elemental Swords

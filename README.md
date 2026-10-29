@@ -10,6 +10,7 @@ Downloads: [CurseForge](https://www.curseforge.com/members/00theblackwolf00/proj
 
 | Mod | What it adds |
 | --- | --- |
+| Blackwolf's More Creepers | More than 60 new creepers, plus a Creepapedia and items to find, catch and collect them |
 | Pocket Workshop | Portable versions of the vanilla utility blocks, on a stick |
 | Portable Crafting Table | A crafting table you can open from your inventory |
 | Four Elemental Swords | Fire, Water, Air and Earth swords, plus the Sword of the Gods |
