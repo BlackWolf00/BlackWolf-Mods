@@ -8,6 +8,7 @@ body:
     attributes:
       label: Mod
       options:
+        - Bottled Mobs
         - "Blackwolf's More Creepers"
         - Pocket Workshop
         - Portable Crafting Table
