@@ -52,6 +52,12 @@ Downloads: [CurseForge](https://www.curseforge.com/members/00theblackwolf00/proj
 | BlackwolfLibrary | Library required by the decorative mods |
 | OreLibrary | Mainly an addon for Solar Generation by 3divad99 |
 
+### Modpacks
+
+| Modpack | What it is |
+| --- | --- |
+| Fantasy Life Adventure | A modpack about exploring dungeons and dimensions |
+
 Loaders and Minecraft versions change from mod to mod: check the files page of each mod.
 
 ## Reporting a problem

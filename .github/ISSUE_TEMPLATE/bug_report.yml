@@ -44,6 +44,7 @@ body:
         - More Walls
         - BlackwolfLibrary
         - OreLibrary
+        - Fantasy Life Adventure (modpack)
     validations:
       required: true
   - type: input
