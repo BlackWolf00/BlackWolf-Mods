@@ -11,19 +11,19 @@ Downloads: [CurseForge](https://www.curseforge.com/members/00theblackwolf00/proj
 | Mod | What it adds |
 | --- | --- |
 | Bottled Mobs | Stun any mob, vanilla or modded, bottle it in a glass jar and display your collection on shelves and cabinets |
-| Blackwolf's More Creepers | More than 60 new creepers, plus a Creepapedia and items to find, catch and collect them |
-| Pocket Workshop | Portable versions of the vanilla utility blocks, on a stick |
+| Blackwolf's More Creepers | More than 60 new creepers, each with its own home and explosion, plus a Creepapedia, defusal tools and a friendly creeper to tame |
+| Pocket Workshop | Portable utility blocks (crafting table, furnaces, chests, anvil, enchanting table, jukebox and more) you can use without placing them |
 | Portable Crafting Table | A crafting table you can open from your inventory |
 | Four Elemental Swords | Fire, Water, Air and Earth swords, plus the Sword of the Gods |
 | Elemental Power | Four elemental sets of armor and new elemental weapons |
 | Tools Of Obsidian | Obsidian tools, weapons and armor |
 | One Punch Man | Gives you the power and invincibility of Saitama, from One Punch Man |
-| Tablets | Magic and helpful tablets |
-| Growing Items | Grow almost every vanilla item as if it were a crop: craft special seeds and plant them on farmland |
-| Ore Revolution | New ores that drop items or food, in the Overworld and in the Nether. Configurable |
+| Tablets | Edible pills for every potion effect, in five strengths: eat them or feed them to mobs |
+| Growing Items | Grow any item as a crop, even items from other mods, with a universal seed, watering cans and special soils. Configurable |
+| Ore Revolution | Ores of any item, vanilla or modded, that change with dimension, biome and depth. Configurable |
 | Transmutation Ore | A simple way to transmute vanilla ores |
 | Seeds From All Dirt Blocks | Wheat, beetroot, pumpkin and melon seeds, carrots and potatoes drop from all dirt blocks |
-| Remove Potions Icons | Removes the potion icons from the top right of the screen |
+| Remove Potions Icons | Hides or moves the potion effect icons from the top right of the screen |
 
 ### Recipes
 
@@ -42,7 +42,7 @@ Downloads: [CurseForge](https://www.curseforge.com/members/00theblackwolf00/proj
 
 | Mod | What it adds |
 | --- | --- |
-| More Decorative Blocks | All the decorative mods below in one |
+| More Decorative Blocks | All the decorative mods below in one, plus chests, signs and frames |
 | More Buttons, Carpets, Doors, Fences & Gates, Ladders, Pressure Plates, Slabs, Stairs, Trapdoors, Vertical Slabs, Walls | Decorative variants of vanilla blocks |
 
 ### Libraries
